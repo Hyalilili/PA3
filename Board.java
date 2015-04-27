@@ -1,10 +1,10 @@
 /**     Sample Board
  *
  *      0   1   2   3
- *  0   -   -   -   -
+ *  0   -   -   -   -bbbbb
  *  1   -   -   -   -
  *  2   -   -   -   -
- *  3   -   -   -   -
+ *  3   -   -   -   -bbbbbb
  
  *  The sample board shows the index values for the columns and rows
  *  Remember that you access a 2D array by first specifying the row
