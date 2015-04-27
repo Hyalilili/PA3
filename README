@@ -1,0 +1,23 @@
+Part 1. Program Description
+
+
+Part 2. Short Response
+Vim related question
+1. Type the line number first and then add "G". For example type "20G" in 
+   command mode to jump directely to line 20.
+
+2. To turn this on, add this line ":set ai" in command mode.
+   To temporarily turn off automatic indenting by typing ":set paste"
+   in command mode.
+
+3. Type "u" to undo last change.
+
+4. In command mode, type "b" to move forward one word. Type "w" to move 
+   backward one word.
+
+Unix related question
+5.Type "rm*.class" to remove all .class files in the directory. 
+
+6.When folder is empty, use "rmdir foldername".
+
+7.Use the command "clear" to clear a unix terminal screen.
